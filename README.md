@@ -9,10 +9,10 @@ then trains certain dogs for search-and-rescue missions. This application will
 allow the company to track and categorize all animals to easily find good
 candidates for search-and-rescue dog training.
 
-# Dashboard Screencast
+# Application Demo
 ![Login window:](FinalProjectScreencast.gif)
 
-Link to project demo -> 
+### YouTube link to project demo: ###
 https://www.youtube.com/embed/DMIArZGrEjE?feature=oembed
 
 # Installation #
